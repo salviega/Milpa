@@ -337,7 +337,10 @@ button, input, select, textarea {
 */
 button, input {
     line-height: normal
+
 }
+
+
 
 /*
 * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
@@ -1091,3 +1094,4 @@ Waypoints
     -webkit-animation-delay: 1s;
     animation-delay: 1s;
 }
+
